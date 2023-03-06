@@ -3,7 +3,7 @@ variable "prefix" {
 }
 
 variable "ssh_key_name" {
-  default = "nvirginia"
+  default = "oguzhan"
 }
 
 variable "names" {
